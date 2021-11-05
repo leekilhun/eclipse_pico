@@ -27,23 +27,17 @@
 		<link>
 			<name>src/common</name>
 			<type>2</type>
-			<location>E:/eclipse-workspace/pico/rpi_pico_lib/common</location>
+			<location>D:/eclipse/eclipse_pico/rpi_pico_lib/common</location>
 		</link>
 		<link>
 			<name>src/lib</name>
 			<type>2</type>
-			<location>E:/eclipse-workspace/pico/rpi_pico_lib/lib</location>
+			<location>D:/eclipse/eclipse_pico/rpi_pico_lib/lib</location>
 		</link>
 		<link>
 			<name>src/hw/driver</name>
 			<type>2</type>
-			<location>E:/eclipse-workspace/pico/rpi_pico_lib/hw/driver</location>
+			<location>D:/eclipse/eclipse_pico/rpi_pico_lib/hw/driver</location>
 		</link>
 	</linkedResources>
-	<variableList>
-		<variable>
-			<name>copy_PARENT</name>
-			<value>$%7BPARENT-1-PROJECT_LOC%7D/pico</value>
-		</variable>
-	</variableList>
 </projectDescription>

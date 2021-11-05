@@ -1,0 +1,8 @@
+src/lib/tinyusb/src/class/hid/hid_host.o: \
+ D:/eclipse/eclipse_pico/pico_fw_usb/src/lib/tinyusb/src/class/hid/hid_host.c \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src/tusb_option.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\pico_stdio_usb\include/tusb_config.h
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src/tusb_option.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\pico_stdio_usb\include/tusb_config.h:

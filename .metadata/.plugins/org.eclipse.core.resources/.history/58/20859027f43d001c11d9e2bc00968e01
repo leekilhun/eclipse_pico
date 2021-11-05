@@ -1,0 +1,24 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+../src/lib/pico-sdk/src/rp2_common/hardware_clocks/clocks.c 
+
+OBJS += \
+./src/lib/pico-sdk/src/rp2_common/hardware_clocks/clocks.o 
+
+C_DEPS += \
+./src/lib/pico-sdk/src/rp2_common/hardware_clocks/clocks.d 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+src/lib/pico-sdk/src/rp2_common/hardware_clocks/clocks.o: D:/eclipse/eclipse_pico/pico_fw_usb/src/lib/pico-sdk/src/rp2_common/hardware_clocks/clocks.c src/lib/pico-sdk/src/rp2_common/hardware_clocks/subdir.mk
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Arm Cross C Compiler'
+	arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -DPICO_ON_DEVICE=1 -DCFG_TUSB_MCU=OPT_MCU_RP2040 -DCFG_TUSB_OS=OPT_OS_PICO -I"D:\eclipse\eclipse_pico\pico_fw_usb\src" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\ap" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\bsp" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\common" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\common\core" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\common\hw\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\hw" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\CMSIS\Include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\common\pico_binary_info\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\common\pico_base\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\common\pico_util\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\common\pico_sync\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\common\pico_time\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\common\pico_stdlib\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_structs\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_regs\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\pico_runtime\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\pico_bootrom\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\pico_platform\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\pico_printf\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\pico_stdio_usb\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\pico_stdio\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_gpio\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_base\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_clocks\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_irq\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_resets\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_sync\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_timer\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_watchdog\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_pll\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_xosc\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_claim\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_irq\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_adc\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_uart\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_flash\include" -I"D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src" -std=gnu11 -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -c -o "$@" "$<"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+

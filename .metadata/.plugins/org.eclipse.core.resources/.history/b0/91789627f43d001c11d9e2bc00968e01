@@ -1,0 +1,89 @@
+src/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.o: \
+ D:/eclipse/eclipse_pico/pico_fw_usb/src/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c \
+ D:/eclipse/eclipse_pico/pico_fw_usb/src/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src/common/tusb_common.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src/tusb_option.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\pico_stdio_usb\include/tusb_config.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src/common/tusb_compiler.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src/common/tusb_verify.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src/common/tusb_error.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src/common/tusb_timeout.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src/common/tusb_types.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\bsp/pico.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\common/def.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\common\pico_base\include/pico/assert.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\common\pico_base\include/pico/types.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\pico_platform\include/pico/platform.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_regs\include/hardware/platform_defs.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/addressmap.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\common\pico_base\include/pico/error.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/usb.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_base\include/hardware/address_mapped.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/usb.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_irq\include/hardware/irq.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/intctrl.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/m0plus.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_resets\include/hardware/resets.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/resets.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/resets.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_clocks\include/hardware/clocks.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/clocks.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/clocks.h
+
+D:/eclipse/eclipse_pico/pico_fw_usb/src/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src/common/tusb_common.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src/tusb_option.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\pico_stdio_usb\include/tusb_config.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src/common/tusb_compiler.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src/common/tusb_verify.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src/common/tusb_error.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src/common/tusb_timeout.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\tinyusb\src/common/tusb_types.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\bsp/pico.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\common/def.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\common\pico_base\include/pico/assert.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\common\pico_base\include/pico/types.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\pico_platform\include/pico/platform.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_regs\include/hardware/platform_defs.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/addressmap.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\common\pico_base\include/pico/error.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/usb.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_base\include/hardware/address_mapped.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/usb.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_irq\include/hardware/irq.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/intctrl.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/m0plus.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_resets\include/hardware/resets.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/resets.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/resets.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2_common\hardware_clocks\include/hardware/clocks.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/clocks.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\lib\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/clocks.h:

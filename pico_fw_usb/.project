@@ -27,17 +27,17 @@
 		<link>
 			<name>src/common</name>
 			<type>2</type>
-			<location>E:/eclipse-workspace/pico/pico_fw_usb/src/common</location>
+			<location>D:/eclipse/eclipse_pico/pico_fw_usb/src/common</location>
 		</link>
 		<link>
 			<name>src/lib</name>
 			<type>2</type>
-			<location>E:/eclipse-workspace/pico/pico_fw_usb/src/lib</location>
+			<location>D:/eclipse/eclipse_pico/pico_fw_usb/src/lib</location>
 		</link>
 		<link>
 			<name>src/hw/driver</name>
 			<type>2</type>
-			<location>E:/eclipse-workspace/pico/pico_fw_usb/src/hw/driver</location>
+			<location>D:/eclipse/eclipse_pico/pico_fw_usb/src/hw/driver</location>
 		</link>
 	</linkedResources>
 	<variableList>

@@ -1,0 +1,8 @@
+src/common/core/util.o: \
+ D:/eclipse/eclipse_pico/pico_fw_usb/src/common/core/util.c \
+ D:/eclipse/eclipse_pico/pico_fw_usb/src/common/core/util.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\common/def.h
+
+D:/eclipse/eclipse_pico/pico_fw_usb/src/common/core/util.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\common/def.h:

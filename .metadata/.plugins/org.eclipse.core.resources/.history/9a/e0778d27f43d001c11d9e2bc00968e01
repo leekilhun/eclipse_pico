@@ -1,0 +1,8 @@
+src/common/core/qbuffer.o: \
+ D:/eclipse/eclipse_pico/pico_fw_usb/src/common/core/qbuffer.c \
+ D:/eclipse/eclipse_pico/pico_fw_usb/src/common/core/qbuffer.h \
+ D:\eclipse\eclipse_pico\pico_fw_usb\src\common/def.h
+
+D:/eclipse/eclipse_pico/pico_fw_usb/src/common/core/qbuffer.h:
+
+D:\eclipse\eclipse_pico\pico_fw_usb\src\common/def.h:

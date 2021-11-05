@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\eclipse\eclipse_pico\rpi_pico_rtos"/>
+			<item value="D:\eclipse\eclipse_pico\rpi_pico_fw"/>
+			<item value="D:\eclipse\eclipse_pico\raspberry_pico_fw"/>
+			<item value="D:\eclipse\eclipse_pico\pico_fw_usb"/>
+			<item value="D:\eclipse\eclipse_pico\pico_fw_led"/>
+			<item value="D:\eclipse\eclipse_pico\pico_boot"/>
+			<item value="D:\eclipse\eclipse_pico\elf2uf2"/>
+			<item value="D:\eclipse\eclipse_pico\boot2_stage"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
